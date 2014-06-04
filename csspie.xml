@@ -36,7 +36,7 @@
 	</description>
 	<!--FILES TO INCLUDE -->
 	<languages folder="administrator/language/en-GB">
-		<language tag="en-GB">en-GB.plg_system_selectivizr.ini</language>
+		<language tag="en-GB">en-GB.plg_system_csspie.ini</language>
 	</languages>	
 	<media folder="media" destination="tbworks">
 		<folder>css</folder>
