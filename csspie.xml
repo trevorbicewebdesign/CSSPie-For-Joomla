@@ -48,10 +48,9 @@
 		<folder>assets</folder>
 	</files>
 	<config>
-        <fields name="params">
-            <fieldset addfieldpath="plugins/system/csspie/fields" name="basic">
-				
-				
+		<fields name="params">
+			<fieldset name="basic">
+			
 			</fieldset>
 		</fields>
 	</config>
